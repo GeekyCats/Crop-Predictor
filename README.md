@@ -23,7 +23,7 @@
   
 
 ## Demo Image
-    ![Screenshot (55)](https://user-images.githubusercontent.com/85061899/217148542-9fa8bb6b-4cf1-47d0-b931-dd5a30582032.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/85061899/217148542-9fa8bb6b-4cf1-47d0-b931-dd5a30582032.png)
 
        
 ## Ml model Credit
