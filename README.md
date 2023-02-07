@@ -23,9 +23,9 @@
   
 
 ## Demo Image
-    ![Screenshot (55)](https://user-images.githubusercontent.com/85061899/217147989-a85a3963-64e1-4582-9b50-d08b96a9bea8.png)
-    
-    
+    ![Screenshot (55)](https://user-images.githubusercontent.com/85061899/217148542-9fa8bb6b-4cf1-47d0-b931-dd5a30582032.png)
+
+       
 ## Ml model Credit
   Ml model credit goes to :- https://www.kaggle.com/code/atharvaingle/what-crop-to-grow
 
