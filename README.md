@@ -1,11 +1,13 @@
-# Krishi-Ml-Backend
+<h1 align="center"> 🚀 Crop Predictor API</h1>
 
-Predict the best crop you should sow in your fields depending on the environment conditions.
+##About
+  Flask server to predict the best crop you should sow in your fields depending on the environment conditions.
 
-  Ml model credit goes to :- https://www.kaggle.com/code/atharvaingle/what-crop-to-grow
-  
+##API
   Use this API link to predict: https://krishiml.azurewebsites.net//predict
   
+  
+##Parameters to pass
   You need to enter following values to predict the crop: -
   - N (Nitrogen value of soil)
   - P (Phosphorus value of soil)
@@ -14,3 +16,22 @@ Predict the best crop you should sow in your fields depending on the environment
   - temperature
   - humidity
   - rainfall
+
+##Full Android Project
+  - Devpost Link:- https://devpost.com/software/krishi-akhbu3
+  - Android Application Link:- https://github.com/GeekyCats/Krishi-Frontend
+  
+
+##Demo Image
+    ![Screenshot (55)](https://user-images.githubusercontent.com/85061899/217147989-a85a3963-64e1-4582-9b50-d08b96a9bea8.png)
+    
+    
+##Ml model Credit
+  Ml model credit goes to :- https://www.kaggle.com/code/atharvaingle/what-crop-to-grow
+
+## Find this repository useful? :heart:
+Support it by joining __[stargazers](https://github.com/GeekyCats/Krishi-Ml-Backend/stargazers)__ for this repository. :star: <br>
+Also, __[follow me](https://github.com/AmartyaSingh97)__ on GitHub for my next creations! 🤩
+
+
+  
