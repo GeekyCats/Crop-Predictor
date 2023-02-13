@@ -33,5 +33,9 @@
 Support it by joining __[stargazers](https://github.com/GeekyCats/Krishi-Ml-Backend/stargazers)__ for this repository. :star: <br>
 Also, __[follow me](https://github.com/AmartyaSingh97)__ on GitHub for my next creations! 🤩
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Krishi-Ml-Backend/count.svg" alt ="Loading">
+
 
   
