@@ -29,7 +29,7 @@
 ## Ml model Credit
   Ml model credit goes to :- https://www.kaggle.com/code/atharvaingle/what-crop-to-grow
 
-## Find this repository useful? :heart:
+## Fond this repository useful? :heart:
 Support it by joining __[stargazers](https://github.com/GeekyCats/Krishi-Ml-Backend/stargazers)__ for this repository. :star: <br>
 Also, __[follow me](https://github.com/AmartyaSingh97)__ on GitHub for my next creations! 🤩
 
