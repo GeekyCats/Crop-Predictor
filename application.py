@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Hello world"
+    return "Try to use /predict endpoint"
 
 @app.route('/predict',methods=['POST'])
 def predict():
@@ -29,7 +29,7 @@ def predict():
 
     return jsonify({'crop':str(result)})
 
-if __name__ == '__main__':
+if __name__ == '__app__':
     app.run(debug=True)
 
 # def open_browser():
